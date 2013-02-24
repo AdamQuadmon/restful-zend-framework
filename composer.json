@@ -4,7 +4,7 @@
     "license": "MIT license",
     "autoload": {
         "psr-0": {
-            "REST": ""
+            "REST": "src/"
         }
     },
     "include-path": [
