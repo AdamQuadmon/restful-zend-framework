@@ -1,5 +1,5 @@
 {
-    "name": "codeinchaos/RESTzf",
+    "name": "codeinchaos/REST",
     "description": "RESTful Applications with Zend Framework.",
     "license": "MIT license",
     "autoload": {
