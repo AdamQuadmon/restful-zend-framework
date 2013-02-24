@@ -6,8 +6,5 @@
         "psr-0": {
             "REST": "src/"
         }
-    },
-    "include-path": [
-        ""
-    ]
+    }
 }
